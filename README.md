@@ -53,3 +53,9 @@ python main.py
 ```bash
 git clone https://github.com/your-username/fresh-farm-products.git
 cd fresh-farm-products
+```
+
+## 📄 License
+This project is licensed under the MIT License.
+
+
