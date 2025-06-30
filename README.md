@@ -19,10 +19,10 @@ Welcome to **Fresh Farm Products**, an easy-to-use web platform that connects bu
 ## 🖼️ Screenshots
 
 ### ✅ Home Page
-![Home Page](/mnt/data/Screenshot%202025-06-30%20183724.png)
+![Screenshot 2025-06-30 183724](https://github.com/user-attachments/assets/1081f54b-aabe-48fa-aa5c-a77f9d4a0ab3)
 
 ### 🛍️ Featured Products
-![Products Page](/mnt/data/Screenshot%202025-06-30%20183750.png)
+![Screenshot 2025-06-30 183750](https://github.com/user-attachments/assets/e530d5f1-5e29-408d-8102-ad6caa33ee48)
 
 ## 🛠️ Tech Stack
 
@@ -32,6 +32,21 @@ Welcome to **Fresh Farm Products**, an easy-to-use web platform that connects bu
 - **Others**: Jinja2 templating, static asset routing, responsive design
 
 ## 🧰 Installation & Setup
+Create virtual environment and activate it
+```bash
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+```
+
+Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+Run the Flask app
+```bash
+python main.py
+```
 
 1. **Clone the repository**
 
